@@ -4,7 +4,7 @@ import Link from "next/link";
 
 export const metadata = generateSEO({
   title: "Play Through The Wall - Free Puzzle Game Online",
-  description: "Play Through The Wall now! Control your character through yoga poses to pass through walls. Experience the ultimate free online puzzle game that tests reflexes and strategy. Start playing through the wall instantly!",
+  description: "Play Through The Wall now! Control your character through yoga poses to pass through walls. Free online puzzle game testing reflexes and strategy. Start instantly!",
   keywords: "play through the wall, through the wall game, online puzzle game, play now, yoga pose game, wall puzzle game online, free game, browser game, through the wall online",
   path: "/play",
 });

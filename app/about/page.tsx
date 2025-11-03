@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export const metadata = generateSEO({
   title: "About Through The Wall - Free Online Puzzle Game",
-  description: "Discover the story behind Through The Wall, the innovative puzzle game combining yoga poses with reflex challenges. Learn about our mission to bring engaging through the wall gameplay to players worldwide.",
+  description: "Discover the story behind Through The Wall, the innovative puzzle game combining yoga poses and reflexes. Learn about our mission to bring engaging gameplay.",
   keywords: "about through the wall, puzzle game story, through the wall game info, wall puzzle creator, game development, through the wall background, online game about",
   path: "/about",
 });

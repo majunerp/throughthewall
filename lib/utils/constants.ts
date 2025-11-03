@@ -1,7 +1,7 @@
 export const SITE_CONFIG = {
   name: "Through The Wall",
   domain: "https://through-the-wall.com",
-  description: "Master the ultimate puzzle challenge! Control your character through yoga poses to pass through walls. Play Through The Wall - the free online puzzle game combining reflexes and strategy.",
+  description: "Master the ultimate puzzle challenge! Control your character through yoga poses to pass through walls in this free online game combining reflexes and strategy.",
   keywords: "through the wall, puzzle game, yoga pose game, wall game, reflex game, strategy game, free online game, brain teaser, casual game, wall puzzle",
 
   // Analytics IDs (replace with actual IDs in production)

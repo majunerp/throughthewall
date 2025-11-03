@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export const metadata = generateSEO({
   title: "Privacy Policy - Through The Wall",
-  description: "Privacy Policy for Through The Wall puzzle game. Learn how we protect your data when playing through the wall online. Transparent information about data collection and usage.",
+  description: "Privacy Policy for Through The Wall. Learn how we protect your data when playing through the wall online. Transparent info on data collection and usage.",
   keywords: "privacy policy, through the wall privacy, data protection, user privacy, online game privacy, through the wall data",
   path: "/privacy",
 });

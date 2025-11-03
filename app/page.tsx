@@ -3,7 +3,7 @@ import { generateSEO } from "@/lib/utils/seo";
 
 export const metadata = generateSEO({
   title: "Through The Wall - Free Online Puzzle Game",
-  description: "Master the ultimate puzzle challenge! Play Through The Wall and control your character through yoga poses to pass through walls. Test your reflexes and strategy in this addictive free online puzzle game. No download required!",
+  description: "Master the ultimate puzzle challenge! Control your character through yoga poses to pass through walls. Free online game testing reflexes and strategy.",
   keywords: "through the wall, puzzle game online, yoga pose game, wall puzzle, brain teaser, reflex game, strategy puzzle game, free online game, casual puzzle, through the wall game",
   path: "/",
 });

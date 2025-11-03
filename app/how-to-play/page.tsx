@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export const metadata = generateSEO({
   title: "How to Play Through The Wall - Game Guide & Tips",
-  description: "Learn how to play Through The Wall with our comprehensive guide. Master yoga poses, improve your reflexes, and dominate this puzzle game. Discover strategies, tips, and tricks to excel at through the wall challenges.",
+  description: "Learn how to play Through The Wall with our guide. Master yoga poses, improve reflexes, and dominate. Discover strategies and tips to excel at wall challenges.",
   keywords: "how to play through the wall, through the wall guide, game tips, puzzle game strategy, yoga pose tips, through the wall tutorial, wall game instructions, through the wall tricks",
   path: "/how-to-play",
 });
