@@ -7,7 +7,7 @@ export const SITE_CONFIG = {
   // Analytics IDs (replace with actual IDs in production)
   analytics: {
     googleId: "G-PZ7K5C1JPT", // Replace with actual GA4 ID
-    clarityId: "XXXXXXXXXX", // Replace with actual Clarity ID
+    clarityId: "u0kc71tf0r", // Replace with actual Clarity ID
   },
 
   // Game iframe URL
